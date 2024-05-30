@@ -6,14 +6,14 @@
   },
   {
     "msgs": [
-      "hi，你好，请问你知道上面这张图是什么意思嘛?"
+      "提问！请问你知道上面这张图是什么意思嘛?"
     ],
-    "msgInputSpeed": 1,
+    "msgInputSpeed": 40,
     "triggerNextAction": {
       "type": "userInput",
       "options": {
         "resolveKeyTexts": [
-          "TZQ","汤紫淇"
+          "TZQ","汤紫淇","tzq"
         ],
         "rejectKeyTexts": [],
         "rejectHitTexts": [
@@ -66,9 +66,9 @@
   },
   {
     "msgs": [
-      "Hey, 紫淇！我是Keqin在网络空间里的一个助手，他想在你生日的当天，给你一些小惊喜~"
+      "终于等到你, 紫淇！我是Keqin的一个code助手，他给你留了一些小惊喜~"
     ],
-    "msgInputSpeed": 1
+    "msgInputSpeed": 20
   },
   {
     "msgs": [
@@ -92,7 +92,7 @@
     "msgs": [
       "我该如何把他的心给你呢？伤脑筋~"
     ],
-    "msgInputSpeed": 1
+    "msgInputSpeed": 20
   },
   {
     "msgs": [
@@ -126,7 +126,7 @@
     "msgs": [
       "（建议右键点击用新网页看）图里面，体型越大、占据位置越中心的词语，在你们的聊天中出现的最多"
     ],
-    "msgInputSpeed": 8
+    "msgInputSpeed": 40
   },
   {
     "msgs": [
@@ -144,13 +144,13 @@
     "msgs": [
       "对不起，这不是我一个机器人应该发表的言论"
     ],
-    "msgInputSpeed": 8
+    "msgInputSpeed": 20
   },
   {
     "msgs": [
       "Error"
     ],
-    "msgInputSpeed": 8
+    "msgInputSpeed": 20
   },
   {
     "msgs": [
@@ -162,7 +162,7 @@
     "msgs": [
       "他一直在脑子里思考你，阅读你，这让他能比别人看得更仔细，发现很多神奇的美。"
     ],
-    "msgInputSpeed": 1
+    "msgInputSpeed": 10
   },
   {
     "msgs": [
@@ -191,14 +191,20 @@
   },
   {
     "msgs": [
-      "字符的颜色取自你的微信头像，背景取反色。不安定，憋着劲儿的黄色。"
+      "这是一幅肖像，字符的颜色取自你的微信头像，背景取反色。不安定，憋着劲儿的黄色。"
     ],
-    "msgInputSpeed": 1
+    "msgInputSpeed": 10
+  },
+  {
+    "msgs": [
+      "填充的词语，是他眼中对于你的形容。"
+    ],
+    "msgInputSpeed": 10
   },
 
   {
     "msgs": [
-      "你可以右键打开，下载下来，就可以看到全尺寸的图像啦"
+      "你真的对他很有吸引力，能让他沉下心来细细观察的很少"
     ],
     "msgInputSpeed": 40
   },
@@ -242,8 +248,15 @@
   },
   {
     "msgs": [
-      "爱你，mua"
+      "爱你"
+    ],
+    "msgInputSpeed": 40
+  },
+  {
+    "msgs": [
+      "<span style=\"color: red;\">Mua~</span>"
     ],
     "msgInputSpeed": 40
   }
+
 ]
